@@ -1,0 +1,361 @@
+{
+  "theme": {
+    "bg": {
+      "primary": {
+        "value": "#121212",
+        "type": "color",
+        "description": "Primary Background [Dark]"
+      },
+      "secondary": {
+        "value": "#121212",
+        "type": "color",
+        "description": "Secondary Background [Dark]"
+      }
+    },
+    "surface": {
+      "primary": {
+        "value": "#343434",
+        "type": "color",
+        "description": "Primary Surface [Dark]"
+      },
+      "secondary": {
+        "value": "#343434",
+        "type": "color",
+        "description": "Secondary Surface [Dark]"
+      }
+    },
+    "fg": {
+      "primary": {
+        "value": "#F5F5F5",
+        "type": "color",
+        "description": "Primary Foreground [Dark]"
+      },
+      "secondary": {
+        "value": "#CCCCCC",
+        "type": "color",
+        "description": "Secondary Foreground [Dark]"
+      },
+      "on-accent": {
+        "value": "#121212",
+        "type": "color",
+        "description": "On Accent Foreground [Dark]"
+      }
+    },
+    "accent": {
+      "primary": {
+        "value": "#83B9FB",
+        "type": "color",
+        "description": "Primary Accent [Dark]"
+      },
+      "success": {
+        "value": "#83FBAB",
+        "type": "color",
+        "description": "Success Accent [Dark]"
+      },
+      "error": {
+        "value": "#FB8383",
+        "type": "color",
+        "description": "Error Accent [Dark]"
+      },
+      "warning": {
+        "value": "#FBD983",
+        "type": "color",
+        "description": "Warning Accent [Dark]"
+      },
+      "brand-red": {
+        "value": "#e83c47",
+        "type": "color",
+        "description": "Which Brand Red Accent [Dark]"
+      }
+    },
+    "border": {
+      "primary": {
+        "value": "#646464",
+        "type": "color",
+        "description": "Primary Border [Dark]"
+      },
+      "secondary": {
+        "value": "#444444",
+        "type": "color",
+        "description": "Secondary Border [Dark]"
+      }
+    },
+    "bars": {
+      "nav": {
+        "background-color": {
+          "value": "#121212f0",
+          "type": "color",
+          "description": "Nav Bar Semi Transparent [Dark]"
+        }
+      },
+      "tab": {
+        "background-color": {
+          "value": "#252525f5",
+          "type": "color",
+          "description": "Tab Bar Semi Transparent [Dark]"
+        }
+      }
+    },
+    "toggle": {
+      "background-color": {
+        "default": {
+          "value": "#343434",
+          "type": "color",
+          "description": "Default Toggle Background [Dark]"
+        },
+        "active": {
+          "value": "#83B9FB",
+          "type": "color",
+          "description": "Active Toggle Background [Dark]"
+        }
+      },
+      "knob": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "Toggle Knob [Dark]"
+      }
+    },
+    "button": {
+      "primary": {
+        "default": {
+          "background-color": {
+            "value": "#83B9FB",
+            "type": "color",
+            "description": "Primary Button Default Background [Dark]"
+          },
+          "text-color": {
+            "value": "#121212",
+            "type": "color",
+            "description": "Primary Button Default Text [Dark]"
+          }
+        },
+        "pressed": {
+          "background-color": {
+            "value": "#A8CDFA",
+            "type": "color",
+            "description": "Primary Button Pressed Background [Dark]"
+          },
+          "text-color": {
+            "value": "#121212",
+            "type": "color",
+            "description": "Primary Button Pressed Text [Dark]"
+          }
+        }
+      },
+      "outline": {
+        "default": {
+          "background-color": {
+            "value": "#121212",
+            "type": "color",
+            "description": "Secondary Button Default Background [Dark]"
+          },
+          "background-outline": {
+            "value": "#CCCCCC",
+            "type": "color",
+            "description": "Secondary Button Default Outline [Dark]"
+          },
+          "text-color": {
+            "value": "#F5F5F5",
+            "type": "color",
+            "description": "Secondary Button Default Text [Dark]"
+          }
+        },
+        "pressed": {
+          "background-color": {
+            "value": "#D7EFFA",
+            "type": "color",
+            "description": "Secondary Button Pressed Background [Dark]"
+          },
+          "background-outline": {
+            "value": "#CCCCCC",
+            "type": "color",
+            "description": "Secondary Button Pressed Outline [Dark]"
+          },
+          "text-color": {
+            "value": "#F5F5F5",
+            "type": "color",
+            "description": "Secondary Pressed Default Text [Dark]"
+          }
+        }
+      },
+      "disabled": {
+        "default": {
+          "background-color": {
+            "value": "#CCCCCC",
+            "type": "color",
+            "description": "Disabled Button Default Background [Dark]"
+          },
+          "text-color": {
+            "value": "#F5F5F5",
+            "type": "color",
+            "description": "Disabled Button Default Text [Dark]"
+          }
+        },
+        "pressed": {
+          "background-color": {
+            "value": "#CCCCCC",
+            "type": "color",
+            "description": "Disabled Button Pressed Background [Dark]"
+          },
+          "text-color": {
+            "value": "#000000",
+            "type": "color",
+            "description": "Disabled Button Pressed Text [Dark]"
+          }
+        }
+      },
+      "destructive": {
+        "default": {
+          "background-color": {
+            "value": "#FB8383",
+            "type": "color",
+            "description": "Destructive Button Default Background [Dark]"
+          },
+          "text-color": {
+            "value": "#121212",
+            "type": "color",
+            "description": "Destructive Button Default Text [Dark]"
+          }
+        },
+        "pressed": {
+          "background-color": {
+            "value": "#751614",
+            "type": "color",
+            "description": "Destructive Button Pressed Background [Dark]"
+          },
+          "text-color": {
+            "value": "#121212",
+            "type": "color",
+            "description": "Destructive Button Pressed Text [Dark]"
+          }
+        }
+      }
+    },
+    "toast": {
+      "error": {
+        "background-color": {
+          "value": "#FB8383",
+          "type": "color",
+          "description": "Toast Error Default Background [Dark]"
+        },
+        "text-color": {
+          "value": "#121212",
+          "type": "color",
+          "description": "Toast Error Default Text [Dark]"
+        },
+        "icon-color": {
+          "value": "#121212",
+          "type": "color",
+          "description": "Toast Error Default Icon [Dark]"
+        }
+      },
+      "warning": {
+        "background-color": {
+          "value": "#FBD983",
+          "type": "color",
+          "description": "Toast Warning Default Background [Dark]"
+        },
+        "text-color": {
+          "value": "#121212",
+          "type": "color",
+          "description": "Toast Warning Default Text [Dark]"
+        },
+        "icon-color": {
+          "value": "#121212",
+          "type": "color",
+          "description": "Toast Warning Default Icon [Dark]"
+        }
+      },
+      "success": {
+        "background-color": {
+          "value": "#83FBAB",
+          "type": "color",
+          "description": "Toast Success Default Background [Dark]"
+        },
+        "text-color": {
+          "value": "#121212",
+          "type": "color",
+          "description": "Toast Success Default Text [Dark]"
+        },
+        "icon-color": {
+          "value": "#121212",
+          "type": "color",
+          "description": "Toast Success Default Icon [Dark]"
+        }
+      },
+      "info": {
+        "background-color": {
+          "value": "#83B9FB",
+          "type": "color",
+          "description": "Toast Info Default Background [Dark]"
+        },
+        "text-color": {
+          "value": "#121212",
+          "type": "color",
+          "description": "Toast Info Default Text [Dark]"
+        },
+        "icon-color": {
+          "value": "#121212",
+          "type": "color",
+          "description": "Toast Info Default Icon [Dark]"
+        }
+      }
+    },
+    "card": {
+      "background-color": {
+        "value": "#121212",
+        "type": "color",
+        "description": "Card Background [Dark]"
+      },
+      "background-outline": {
+        "value": "#646464",
+        "type": "color",
+        "description": "Card Outline [Dark]"
+      }
+    }
+  },
+  "boxShadow": {
+    "toggle-knob": {
+      "value": [
+        {
+          "x": 0,
+          "y": 3,
+          "blur": 8,
+          "spread": 0,
+          "color": "#00000026",
+          "type": "dropShadow"
+        },
+        {
+          "x": 0,
+          "y": 3,
+          "blur": 1,
+          "spread": 0,
+          "color": "#0000000f",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "card": {
+      "value": [
+        {
+          "x": 0,
+          "y": 2,
+          "blur": 12,
+          "spread": 0,
+          "color": "#0000001a",
+          "type": "dropShadow"
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "blur": 25,
+          "spread": 0,
+          "color": "#00000008",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    }
+  }
+}
