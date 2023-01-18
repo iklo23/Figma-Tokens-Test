@@ -1,5 +1,5 @@
 :root {
-          --theme-bg-primary: #0050B3;
+          --theme-bg-primary: #FFFFFF;
   --theme-bg-secondary: #F5F5F5;
   --theme-surface-primary: #FFFFFF;
   --theme-surface-secondary: #E5E5E5;
@@ -22,7 +22,7 @@
   --theme-button-primary-default-text-color: #FFFFFF;
   --theme-button-primary-pressed-background-color: #26539B;
   --theme-button-primary-pressed-text-color: #FFFFFF;
-  --theme-button-outline-default-background-color: #0050B3;
+  --theme-button-outline-default-background-color: #FFFFFF;
   --theme-button-outline-default-background-outline: #646464;
   --theme-button-outline-default-text-color: #000000;
   --theme-button-outline-pressed-background-color: #D7EFFA;
@@ -48,7 +48,7 @@
   --theme-toast-info-background-color: #0050B3;
   --theme-toast-info-text-color: #FFFFFF;
   --theme-toast-info-icon-color: #FFFFFF;
-  --theme-card-background-color: #0050B3;
+  --theme-card-background-color: #FFFFFF;
   --theme-card-background-outline: #CCCCCC;
   --box-shadow-toggle-knob: [object Object],[object Object];
   --box-shadow-card: [object Object],[object Object];
