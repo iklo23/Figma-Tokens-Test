@@ -2,6 +2,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="output/light.css">
+        <link rel="stylesheet" href="output/core.css">
     </head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -61,7 +62,7 @@ body {
     button { 
         background-color: var(--theme-button-primary-default-background-color); 
         border: none;
-        border-radius: 24px;
+        border-radius: var(--border-radius-24);
         height: auto;
         width: 300px;
         padding: 16px;
@@ -74,15 +75,15 @@ body {
     background-color: var(--theme-surface-secondary);
         height: 300px;
         width: 300px;
-        border-radius: 8px;
+        border-radius: var(--border-radius-4);
         margin: 0 auto;
     }
 
     .nav {
     background-color: var(--theme-accent-warning);
         height: 50px;
-        width: 300px;
-        border-radius: 8px;
+        width: auto;
+        border-radius: var(--border-radius-0);
         margin: 0 auto;
         margin-bottom: 24px;
     }
