@@ -590,10 +590,10 @@
       "type": "borderRadius"
     },
     "large": {
-      "value": "24px",
+      "value": "0px",
       "type": "borderRadius"
     },
-    "no-radius": {
+    "none": {
       "value": "0px",
       "type": "borderRadius"
     }
