@@ -593,7 +593,7 @@
       "value": "24px",
       "type": "borderRadius"
     },
-    "no-radius": {
+    "none": {
       "value": "0px",
       "type": "borderRadius"
     }
