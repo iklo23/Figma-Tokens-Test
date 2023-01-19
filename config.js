@@ -1,9 +1,9 @@
 const glob = require("glob");
 const StyleDictionary = require("style-dictionary");
-const baseFiles = glob.sync(`tokens/01_base/**/*.json`);
-const themeFiles = glob.sync(`tokens/02_themes/**/*.json`);
-const semanticFiles = glob.sync(`tokens/03_semantic/**/*.json`);
-const componentFiles = glob.sync("tokens/04_component/**/*.json");
+const baseFiles = glob.sync(`tokens/**/*.json`);
+//const themeFiles = glob.sync(`tokens/02_themes/**/*.json`);
+//const semanticFiles = glob.sync(`tokens/03_semantic/**/*.json`);
+//const componentFiles = glob.sync("tokens/04_component/**/*.json");
 const { Parser } = require("expr-eval");
 const { parseToRgba } = require("color2k");
 const fs = require("fs");
