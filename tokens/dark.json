@@ -316,46 +316,112 @@
   },
   "boxShadow": {
     "toggle-knob": {
-      "value": [
-        {
-          "x": 0,
-          "y": 3,
-          "blur": 8,
-          "spread": 0,
-          "color": "#00000026",
-          "type": "dropShadow"
+      "0": {
+        "x": {
+          "value": 0,
+          "type": "x"
         },
-        {
-          "x": 0,
-          "y": 3,
-          "blur": 1,
-          "spread": 0,
-          "color": "#0000000f",
-          "type": "dropShadow"
+        "y": {
+          "value": 3,
+          "type": "y"
+        },
+        "blur": {
+          "value": 8,
+          "type": "blur"
+        },
+        "spread": {
+          "value": 0,
+          "type": "spread"
+        },
+        "color": {
+          "value": "#00000026",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
         }
-      ],
-      "type": "boxShadow"
+      },
+      "1": {
+        "x": {
+          "value": 0,
+          "type": "x"
+        },
+        "y": {
+          "value": 3,
+          "type": "y"
+        },
+        "blur": {
+          "value": 1,
+          "type": "blur"
+        },
+        "spread": {
+          "value": 0,
+          "type": "spread"
+        },
+        "color": {
+          "value": "#0000000f",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        }
+      }
     },
     "card": {
-      "value": [
-        {
-          "x": 0,
-          "y": 2,
-          "blur": 12,
-          "spread": 0,
-          "color": "#0000001a",
-          "type": "dropShadow"
+      "0": {
+        "x": {
+          "value": 0,
+          "type": "x"
         },
-        {
-          "x": 0,
-          "y": 0,
-          "blur": 25,
-          "spread": 0,
-          "color": "#00000008",
-          "type": "dropShadow"
+        "y": {
+          "value": 2,
+          "type": "y"
+        },
+        "blur": {
+          "value": 12,
+          "type": "blur"
+        },
+        "spread": {
+          "value": 0,
+          "type": "spread"
+        },
+        "color": {
+          "value": "#0000001a",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
         }
-      ],
-      "type": "boxShadow"
+      },
+      "1": {
+        "x": {
+          "value": 0,
+          "type": "x"
+        },
+        "y": {
+          "value": 0,
+          "type": "y"
+        },
+        "blur": {
+          "value": 25,
+          "type": "blur"
+        },
+        "spread": {
+          "value": 0,
+          "type": "spread"
+        },
+        "color": {
+          "value": "#00000008",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        }
+      }
     }
   }
 }
