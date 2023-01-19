@@ -85,16 +85,16 @@
   --typography-scorelabels: [object Object];
   --letter-spacing-letter-spacing-none: 0;
   --letter-spacing-letter-spacing-one: 1;
-  --spacing-xx-small: 4px;
+  --spacing-2x-small: 4px;
   --spacing-x-small: 8px;
   --spacing-small: 12px;
   --spacing-medium: 16px;
   --spacing-large: 24px;
   --spacing-x-large: 32px;
-  --spacing-xx-large: 40px;
-  --spacing-xxx-large: 56px;
-  --spacing-xxxx-large: 64px;
-  --border-radius-4: 4px;
-  --border-radius-24: 24px;
+  --spacing-2x-large: 40px;
+  --spacing-3x-large: 56px;
+  --spacing-4x-large: 64px;
+  --border-radius-small: 4px;
+  --border-radius-large: 24px;
   --border-radius-no-radius: 0px;
       }
