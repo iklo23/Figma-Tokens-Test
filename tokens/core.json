@@ -3,7 +3,7 @@
     "black": {
       "value": "#000000",
       "type": "color",
-      "description": "Seatbelt Black100 23"
+      "description": "Seatbelt Black100"
     },
     "white": {
       "value": "#FFFFFF",
@@ -499,17 +499,6 @@
         "fontSize": 20,
         "letterSpacing": 0,
         "textCase": "none"
-      },
-      "type": "typography"
-    },
-    "label": {
-      "value": {
-        "fontFamily": "National 2",
-        "fontWeight": "Medium",
-        "lineHeight": "auto",
-        "fontSize": 17,
-        "textCase": "none",
-        "textDecoration": "none"
       },
       "type": "typography"
     },
