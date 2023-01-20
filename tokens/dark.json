@@ -142,7 +142,7 @@
           }
         }
       },
-      "outline": {
+      "secondary": {
         "default": {
           "background-color": {
             "value": "#121212",

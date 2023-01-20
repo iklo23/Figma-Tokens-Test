@@ -22,12 +22,12 @@
   --theme-button-primary-default-text-color: #FFFFFF;
   --theme-button-primary-pressed-background-color: #26539B;
   --theme-button-primary-pressed-text-color: #FFFFFF;
-  --theme-button-outline-default-background-color: #FFFFFF;
-  --theme-button-outline-default-background-outline: #646464;
-  --theme-button-outline-default-text-color: #000000;
-  --theme-button-outline-pressed-background-color: #D7EFFA;
-  --theme-button-outline-pressed-background-outline: #646464;
-  --theme-button-outline-pressed-text-color: #000000;
+  --theme-button-secondary-default-background-color: #FFFFFF;
+  --theme-button-secondary-default-background-outline: #646464;
+  --theme-button-secondary-default-text-color: #000000;
+  --theme-button-secondary-pressed-background-color: #D7EFFA;
+  --theme-button-secondary-pressed-background-outline: #646464;
+  --theme-button-secondary-pressed-text-color: #000000;
   --theme-button-disabled-default-background-color: #CCCCCC;
   --theme-button-disabled-default-text-color: #000000;
   --theme-button-disabled-pressed-background-color: #646464;
