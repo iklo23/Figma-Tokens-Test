@@ -2,7 +2,7 @@
   "theme": {
     "bg": {
       "primary": {
-        "value": "#FFFFFF",
+        "value": "#e83c47",
         "type": "color",
         "description": "Primary Background [Light]"
       },
@@ -145,7 +145,7 @@
       "secondary": {
         "default": {
           "background-color": {
-            "value": "#FFFFFF",
+            "value": "#e83c47",
             "type": "color",
             "description": "Secondary Button Default Background [Light]"
           },
@@ -303,7 +303,7 @@
     },
     "card": {
       "background-color": {
-        "value": "#FFFFFF",
+        "value": "#e83c47",
         "type": "color",
         "description": "Card Background [Light]"
       },
