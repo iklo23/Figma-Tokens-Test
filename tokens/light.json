@@ -119,7 +119,7 @@
       "primary": {
         "default": {
           "background-color": {
-            "value": "#E81C30",
+            "value": "#0050B3",
             "type": "color",
             "description": "Primary Button Default Background [Light]"
           },
