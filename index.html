@@ -7,7 +7,6 @@
 </head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-
   body {
     background-color: white;
     text-align: center;
@@ -66,17 +65,18 @@
 
   .wrapper {
     text-align: center;
+    width: 360px;
     display: block;
     /* position: absolute; */
 
-  } 
+  }
 
   #button1 {
     background-color: var(--theme-button-primary-default-background-color);
     border: none;
     border-radius: var(--border-radius-large);
     height: auto;
-    width: 40%;
+    width: 45%;
     padding: 16px;
     margin-top: var(--spacing-large);
     color: var(--theme-button-primary-default-text-color);
@@ -91,7 +91,7 @@
     border-color: var(--theme-button-secondary-default-background-outline);
     border-radius: var(--border-radius-large);
     height: auto;
-    width: 40%;
+    width: 45%;
     padding: 16px;
     margin-top: var(--spacing-medium);
     color: var(--theme-button-secondary-default-text-color);
@@ -99,12 +99,21 @@
 
   }
 
-  .image {
+  .image1 {
     background-color: var(--theme-surface-secondary);
-    height: 300px;
-    width: 300px;
+    height: 240px;
+    width: 320px;
     border-radius: var(--border-radius-small);
     margin: 0 auto;
+  }
+
+  .image2 {
+    background-color: var(--theme-surface-secondary);
+    height: 120px;
+    width: 320px;
+    border-radius: var(--border-radius-small);
+    margin: 0 auto;
+    margin-top: var(--spacing-large);
   }
 
   .nav {
@@ -117,8 +126,6 @@
     margin: 0 auto;
     margin-bottom: 24px;
   }
-
-
 </style>
 </head>
 
@@ -127,11 +134,12 @@
   <div class="smartphone">
     <div class="content">
       <div class="nav"></div>
-      <div class="image"></div>
+      <div class="image1"></div>
+      <div class="image2"></div>
       <div class="wrapper">
         <button type="button" id="button1">Subscribe</button>
         <button type="button" id="button2">Log in</button>
-      </div>  
+      </div>
 
     </div>
   </div>
