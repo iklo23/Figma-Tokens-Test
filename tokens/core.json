@@ -579,7 +579,7 @@
       "type": "borderRadius"
     },
     "large": {
-      "value": "8px",
+      "value": "24px",
       "type": "borderRadius"
     },
     "none": {
