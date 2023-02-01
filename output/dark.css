@@ -1,11 +1,11 @@
 :root {
-          --theme-bg-primary: #121212;
-  --theme-bg-secondary: #121212;
+          --theme-background-primary: #121212;
+  --theme-background-secondary: #121212;
   --theme-surface-primary: #343434;
   --theme-surface-secondary: #343434;
-  --theme-fg-primary: #F5F5F5;
-  --theme-fg-secondary: #CCCCCC;
-  --theme-fg-on-accent: #121212;
+  --theme-foreground-primary: #F5F5F5;
+  --theme-foreground-secondary: #CCCCCC;
+  --theme-foreground-on-accent: #121212;
   --theme-accent-primary: #83B9FB;
   --theme-accent-success: #83FBAB;
   --theme-accent-error: #FB8383;

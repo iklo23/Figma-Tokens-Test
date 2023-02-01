@@ -1,6 +1,6 @@
 {
   "theme": {
-    "bg": {
+    "background": {
       "primary": {
         "value": "#FFFFFF",
         "type": "color",
@@ -24,7 +24,7 @@
         "description": "Secondary Surface [Light]"
       }
     },
-    "fg": {
+    "foreground": {
       "primary": {
         "value": "#000000",
         "type": "color",
