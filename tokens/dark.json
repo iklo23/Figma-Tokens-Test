@@ -14,7 +14,7 @@
     },
     "surface": {
       "primary": {
-        "value": "#343434",
+        "value": "#252525",
         "type": "color",
         "description": "Primary Surface [Dark]"
       },
