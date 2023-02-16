@@ -10,6 +10,11 @@
         "value": "#121212",
         "type": "color",
         "description": "Secondary Background [Dark]"
+      },
+      "tertiary": {
+        "value": "#252525",
+        "type": "color",
+        "description": "Tertiary Background [Dark]"
       }
     },
     "surface": {

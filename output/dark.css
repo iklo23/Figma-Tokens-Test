@@ -1,6 +1,7 @@
 :root {
           --theme-background-primary: #121212;
   --theme-background-secondary: #121212;
+  --theme-background-tertiary: #252525;
   --theme-surface-primary: #252525;
   --theme-surface-secondary: #343434;
   --theme-foreground-primary: #F5F5F5;
