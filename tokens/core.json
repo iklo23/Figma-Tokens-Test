@@ -360,7 +360,7 @@
       "400": {
         "value": {
           "fontFamily": "National 2",
-          "fontWeight": "Medium",
+          "fontWeight": "Bold",
           "lineHeight": 28,
           "fontSize": 19,
           "textCase": "none"
