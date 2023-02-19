@@ -154,10 +154,10 @@
             "type": "color",
             "description": "Secondary Button Default Background [Light]"
           },
-          "background-outline": {
+          "background-border": {
             "value": "#646464",
             "type": "color",
-            "description": "Secondary Button Default Outline [Light]"
+            "description": "Secondary Button Default Border [Light]"
           },
           "text-color": {
             "value": "#000000",
@@ -171,10 +171,10 @@
             "type": "color",
             "description": "Secondary Button Pressed Background [Light]"
           },
-          "background-outline": {
+          "background-border": {
             "value": "#646464",
             "type": "color",
-            "description": "Secondary Button Pressed Outline [Light]"
+            "description": "Secondary Button Pressed Border [Light]"
           },
           "text-color": {
             "value": "#000000",
@@ -190,6 +190,11 @@
             "type": "color",
             "description": "Disabled Button Default Background [Light]"
           },
+          "background-border": {
+            "value": "#646464",
+            "type": "color",
+            "description": "Disabled Button Default Border [Light]"
+          },
           "text-color": {
             "value": "#000000",
             "type": "color",
@@ -198,9 +203,14 @@
         },
         "pressed": {
           "background-color": {
-            "value": "#646464",
+            "value": "#CCCCCC",
             "type": "color",
             "description": "Disabled Button Pressed Background [Light]"
+          },
+          "background-border": {
+            "value": "#646464",
+            "type": "color",
+            "description": "Disabled Button Pressed Border [Light]"
           },
           "text-color": {
             "value": "#000000",

@@ -154,10 +154,10 @@
             "type": "color",
             "description": "Secondary Button Default Background [Dark]"
           },
-          "background-outline": {
+          "background-border": {
             "value": "#CCCCCC",
             "type": "color",
-            "description": "Secondary Button Default Outline [Dark]"
+            "description": "Secondary Button Default Border [Dark]"
           },
           "text-color": {
             "value": "#F5F5F5",
@@ -171,10 +171,10 @@
             "type": "color",
             "description": "Secondary Button Pressed Background [Dark]"
           },
-          "background-outline": {
+          "background-border": {
             "value": "#CCCCCC",
             "type": "color",
-            "description": "Secondary Button Pressed Outline [Dark]"
+            "description": "Secondary Button Pressed Border [Dark]"
           },
           "text-color": {
             "value": "#F5F5F5",
@@ -186,24 +186,34 @@
       "disabled": {
         "default": {
           "background-color": {
-            "value": "#CCCCCC",
+            "value": "#444444",
             "type": "color",
             "description": "Disabled Button Default Background [Dark]"
           },
+          "background-border": {
+            "value": "#CCCCCC",
+            "type": "color",
+            "description": "Disabled Button Default Border [Dark]"
+          },
           "text-color": {
-            "value": "#F5F5F5",
+            "value": "#CCCCCC",
             "type": "color",
             "description": "Disabled Button Default Text [Dark]"
           }
         },
         "pressed": {
           "background-color": {
-            "value": "#CCCCCC",
+            "value": "#444444",
             "type": "color",
             "description": "Disabled Button Pressed Background [Dark]"
           },
+          "background-border": {
+            "value": "#CCCCCC",
+            "type": "color",
+            "description": "Disabled Button Pressed Border [Dark]"
+          },
           "text-color": {
-            "value": "#000000",
+            "value": "#CCCCCC",
             "type": "color",
             "description": "Disabled Button Pressed Text [Dark]"
           }
