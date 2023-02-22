@@ -582,6 +582,10 @@
       "value": "4px",
       "type": "borderRadius"
     },
+    "medium": {
+      "value": "16px",
+      "type": "borderRadius"
+    },
     "large": {
       "value": "24px",
       "type": "borderRadius"
