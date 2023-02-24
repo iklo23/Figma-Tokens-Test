@@ -1,5 +1,5 @@
 {
-  "theme": {
+  "color": {
     "background": {
       "primary": {
         "value": "#FFFFFF",
@@ -114,10 +114,17 @@
           "description": "Active Toggle Background [Light]"
         }
       },
-      "knob": {
-        "value": "#FFFFFF",
-        "type": "color",
-        "description": "Toggle Knob [Light]"
+      "handle": {
+        "default": {
+          "value": "#F5F5F5",
+          "type": "color",
+          "description": "Toggle Default Handle [Light]"
+        },
+        "active": {
+          "value": "#FFFFFF",
+          "type": "color",
+          "description": "Toggle Active Handle [Light]"
+        }
       }
     },
     "button": {
@@ -132,6 +139,11 @@
             "value": "#FFFFFF",
             "type": "color",
             "description": "Primary Button Default Text [Light]"
+          },
+          "icon-color": {
+            "value": "#FFFFFF",
+            "type": "color",
+            "description": "Primary Button Default Text [Light]"
           }
         },
         "pressed": {
@@ -141,6 +153,11 @@
             "description": "Primary Button Pressed Background [Light]"
           },
           "text-color": {
+            "value": "#FFFFFF",
+            "type": "color",
+            "description": "Primary Button Pressed Text [Light]"
+          },
+          "icon-color": {
             "value": "#FFFFFF",
             "type": "color",
             "description": "Primary Button Pressed Text [Light]"

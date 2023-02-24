@@ -1,5 +1,5 @@
 {
-  "theme": {
+  "color": {
     "background": {
       "primary": {
         "value": "#121212",
@@ -132,6 +132,11 @@
             "value": "#121212",
             "type": "color",
             "description": "Primary Button Default Text [Dark]"
+          },
+          "icon-color": {
+            "value": "#121212",
+            "type": "color",
+            "description": "Primary Button Default Icon [Dark]"
           }
         },
         "pressed": {
@@ -144,6 +149,11 @@
             "value": "#121212",
             "type": "color",
             "description": "Primary Button Pressed Text [Dark]"
+          },
+          "icon-color": {
+            "value": "#121212",
+            "type": "color",
+            "description": "Primary Button Pressed Icon [Dark]"
           }
         }
       },
