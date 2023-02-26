@@ -85,7 +85,7 @@
         "description": "Secondary Border [Light]"
       }
     },
-    "bars": {
+    "bar": {
       "nav": {
         "background-color": {
           "value": "#fffffff0",
@@ -102,25 +102,25 @@
       }
     },
     "toggle": {
-      "background-color": {
-        "default": {
+      "default": {
+        "background-color": {
           "value": "#E5E5E5",
           "type": "color",
           "description": "Default Toggle Background [Light]"
         },
-        "active": {
-          "value": "#0050B3",
-          "type": "color",
-          "description": "Active Toggle Background [Light]"
-        }
-      },
-      "handle": {
-        "default": {
+        "handle-color": {
           "value": "#F5F5F5",
           "type": "color",
           "description": "Toggle Default Handle [Light]"
+        }
+      },
+      "active": {
+        "background-color": {
+          "value": "#0050B3",
+          "type": "color",
+          "description": "Active Toggle Background [Light]"
         },
-        "active": {
+        "handle-color": {
           "value": "#FFFFFF",
           "type": "color",
           "description": "Toggle Active Handle [Light]"
@@ -180,6 +180,11 @@
             "value": "#000000",
             "type": "color",
             "description": "Secondary Button Default Text [Light]"
+          },
+          "icon-color": {
+            "value": "#000000",
+            "type": "color",
+            "description": "Secondary Button Default Icon [Light]"
           }
         },
         "pressed": {
@@ -197,6 +202,11 @@
             "value": "#000000",
             "type": "color",
             "description": "Secondary Pressed Default Text [Light]"
+          },
+          "icon-color": {
+            "value": "#000000",
+            "type": "color",
+            "description": "Secondary Pressed Default Icon [Light]"
           }
         }
       },
@@ -216,6 +226,11 @@
             "value": "#000000",
             "type": "color",
             "description": "Disabled Button Default Text [Light]"
+          },
+          "icon-color": {
+            "value": "#000000",
+            "type": "color",
+            "description": "Disabled Button Default Icon [Light]"
           }
         },
         "pressed": {
@@ -233,6 +248,11 @@
             "value": "#000000",
             "type": "color",
             "description": "Disabled Button Pressed Text [Light]"
+          },
+          "icon-color": {
+            "value": "#000000",
+            "type": "color",
+            "description": "Disabled Button Pressed Icon [Light]"
           }
         }
       },
@@ -247,6 +267,11 @@
             "value": "#FFFFFF",
             "type": "color",
             "description": "Destructive Button Default Text [Light]"
+          },
+          "icon-color": {
+            "value": "#FFFFFF",
+            "type": "color",
+            "description": "Destructive Button Default Icon [Light]"
           }
         },
         "pressed": {
@@ -259,6 +284,11 @@
             "value": "#FFFFFF",
             "type": "color",
             "description": "Destructive Button Pressed Text [Light]"
+          },
+          "icon-color": {
+            "value": "#FFFFFF",
+            "type": "color",
+            "description": "Destructive Button Pressed Icon [Light]"
           }
         }
       }
@@ -339,10 +369,10 @@
         "type": "color",
         "description": "Card Background [Light]"
       },
-      "background-outline": {
+      "background-border": {
         "value": "#CCCCCC",
         "type": "color",
-        "description": "Card Outline [Light]"
+        "description": "Card Border [Light]"
       }
     }
   },

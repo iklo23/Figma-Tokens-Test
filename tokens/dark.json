@@ -85,7 +85,7 @@
         "description": "Secondary Border [Dark]"
       }
     },
-    "bars": {
+    "bar": {
       "nav": {
         "background-color": {
           "value": "#121212f0",
@@ -102,22 +102,29 @@
       }
     },
     "toggle": {
-      "background-color": {
-        "default": {
+      "default": {
+        "background-color": {
           "value": "#343434",
           "type": "color",
           "description": "Default Toggle Background [Dark]"
         },
-        "active": {
+        "handle-color": {
+          "value": "#E5E5E5",
+          "type": "color",
+          "description": "Toggle Default Handle [Dark]"
+        }
+      },
+      "active": {
+        "background-color": {
           "value": "#83B9FB",
           "type": "color",
           "description": "Active Toggle Background [Dark]"
+        },
+        "handle-color": {
+          "value": "#F5F5F5",
+          "type": "color",
+          "description": "Toggle Active Handle [Dark]"
         }
-      },
-      "knob": {
-        "value": "#FFFFFF",
-        "type": "color",
-        "description": "Toggle Knob [Dark]"
       }
     },
     "button": {
@@ -173,6 +180,11 @@
             "value": "#F5F5F5",
             "type": "color",
             "description": "Secondary Button Default Text [Dark]"
+          },
+          "icon-color": {
+            "value": "#F5F5F5",
+            "type": "color",
+            "description": "Secondary Button Default Icon [Dark]"
           }
         },
         "pressed": {
@@ -190,6 +202,11 @@
             "value": "#F5F5F5",
             "type": "color",
             "description": "Secondary Pressed Default Text [Dark]"
+          },
+          "icon-color": {
+            "value": "#F5F5F5",
+            "type": "color",
+            "description": "Secondary Pressed Default Icon [Dark]"
           }
         }
       },
@@ -209,6 +226,11 @@
             "value": "#CCCCCC",
             "type": "color",
             "description": "Disabled Button Default Text [Dark]"
+          },
+          "icon-color": {
+            "value": "#CCCCCC",
+            "type": "color",
+            "description": "Disabled Button Default Icon [Dark]"
           }
         },
         "pressed": {
@@ -226,6 +248,11 @@
             "value": "#CCCCCC",
             "type": "color",
             "description": "Disabled Button Pressed Text [Dark]"
+          },
+          "icon-color": {
+            "value": "#CCCCCC",
+            "type": "color",
+            "description": "Disabled Button Pressed Icon [Dark]"
           }
         }
       },
@@ -240,6 +267,11 @@
             "value": "#121212",
             "type": "color",
             "description": "Destructive Button Default Text [Dark]"
+          },
+          "icon-color": {
+            "value": "#121212",
+            "type": "color",
+            "description": "Destructive Button Default Icon [Dark]"
           }
         },
         "pressed": {
@@ -252,6 +284,11 @@
             "value": "#121212",
             "type": "color",
             "description": "Destructive Button Pressed Text [Dark]"
+          },
+          "icon-color": {
+            "value": "#121212",
+            "type": "color",
+            "description": "Destructive Button Pressed Icon [Dark]"
           }
         }
       }
@@ -332,7 +369,7 @@
         "type": "color",
         "description": "Card Background [Dark]"
       },
-      "background-outline": {
+      "background-border": {
         "value": "#646464",
         "type": "color",
         "description": "Card Outline [Dark]"
