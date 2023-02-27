@@ -199,7 +199,7 @@
             "description": "Secondary Button Pressed Border [Dark]"
           },
           "text-color": {
-            "value": "#F5F5F5",
+            "value": "#121212",
             "type": "color",
             "description": "Secondary Pressed Default Text [Dark]"
           },
