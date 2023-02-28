@@ -148,7 +148,7 @@
         },
         "pressed": {
           "background-color": {
-            "value": "#A8CDFA",
+            "value": "#D7EFFA",
             "type": "color",
             "description": "Primary Button Pressed Background [Dark]"
           },
@@ -276,7 +276,7 @@
         },
         "pressed": {
           "background-color": {
-            "value": "#751614",
+            "value": "#FAA8A8",
             "type": "color",
             "description": "Destructive Button Pressed Background [Dark]"
           },

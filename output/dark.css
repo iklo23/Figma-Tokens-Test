@@ -23,7 +23,7 @@
   --color-button-primary-default-background-color: #83B9FB;
   --color-button-primary-default-text-color: #121212;
   --color-button-primary-default-icon-color: #121212;
-  --color-button-primary-pressed-background-color: #A8CDFA;
+  --color-button-primary-pressed-background-color: #D7EFFA;
   --color-button-primary-pressed-text-color: #121212;
   --color-button-primary-pressed-icon-color: #121212;
   --color-button-secondary-default-background-color: #121212;
@@ -45,7 +45,7 @@
   --color-button-destructive-default-background-color: #FB8383;
   --color-button-destructive-default-text-color: #121212;
   --color-button-destructive-default-icon-color: #121212;
-  --color-button-destructive-pressed-background-color: #751614;
+  --color-button-destructive-pressed-background-color: #FAA8A8;
   --color-button-destructive-pressed-text-color: #121212;
   --color-button-destructive-pressed-icon-color: #121212;
   --color-toast-error-background-color: #FB8383;
